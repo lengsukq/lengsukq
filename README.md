@@ -2,6 +2,18 @@
   <img src="https://avatars.githubusercontent.com/u/105091166?v=4" width="150" alt="你的头像">
   <h1>Hi, 我是 lengsukq!</h1>
   <p>前端/全栈开发者 | 喜欢折腾技术 🚀</p>
+
+  <p>
+    <a href="https://github.com/lengsukq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
+    <a href="https://blog.lengsu.top/"><img src="https://img.shields.io/badge/博客-red?style=for-the-badge&logo=blogger&logoColor=white" alt="博客"></a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  ✨ <span style="font-size: 1.5em; font-weight: bold; color: #007bff;">编程铸就思维</span> ✨<br>
+  💡 <span style="font-size: 1.2em; color: #6c757d;">思维成就编程</span> 💡
 </div>
 
 ---
@@ -23,13 +35,6 @@
 *   **[daily_push](https://github.com/lengsukq/daily_push) (Node.js)** - 微信定时推送。主要是每日微信天气推送，后面添加了青龙实用脚本。使用Node.js和GitHub Actions，实现微信模板消息定时推送，为不同用户推送个性化天气信息。
 *   **[my-git-tool](https://github.com/lengsukq/my-git-tool) (Electron)** - SSH部署工具。 基于Electron和Vue3开发，提供SSH一键部署功能，提升团队部署效率（自己写的闲时小玩具，已停更）。
 *   **[Pic-Su](https://github.com/lengsukq/Pic-Su) (Next.js)** - 图片管理系统。 对接多个图床平台，支持分发token。
-
----
-
-## 🔗 联系方式
-
-*   GitHub: [https://github.com/lengsukq](https://github.com/lengsukq)
-*   博客: [https://blog.lengsu.top/](https://blog.lengsu.top/)
 
 ---
 
