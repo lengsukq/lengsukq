@@ -51,7 +51,7 @@
 | ✍️ [AI降重](https://parap.lengsu.top/) |  解析查重报告并自定义大模型降重 |  Vue3 / Pthone / Tailwindcss | 更新中 |
 | 🏞️ [TG 图床](https://tg-img.lengsu.top/) |  Telegram 图像服务 |  Node.js / Express /  MySQL | 维护中 |
 | 🧐 [深度研究](https://deep-research.lengsu.top/) | 手动实现不同大模型的deep-research |  Next.js / React | 维护中 |
-| 📝 [在线制作简历](https://resume.lengsu.top/) |  在线制作 |  Next.js / React | 维护中 |
+| 📝 [在线制作简历](https://resume.lengsu.top/) |  简单的简历制作 |  Next.js / React | 维护中 |
 | 💬 [开箱即用NextChat](https://chat.lengsu.top/) |  web端一站式大模型整合 |  Next.js /  React /  Node.js /  OpenAI API / LangChain  | 维护中 |
 
 ---
