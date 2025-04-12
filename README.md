@@ -22,7 +22,7 @@
 
 *   Vue3 / React / Uniapp / 微信小程序 / Next.js
 *   Node.js / Express / Python / MySQL / PostgreSQL
-*   Webpack / Vite / Docker / NGINX
+*   Webpack / Vite / Docker / NGINX / Shell
 
 ---
 
@@ -31,10 +31,28 @@
 *   **[wechat-bot](https://github.com/wangrongding/wechat-bot) (Node.js)** - 微信机器人，核心开发者。  使用Node.js和Docker，对接AI对话模块，实现微信聊天机器人功能。
 *   **[ParaphrasingToolClient](https://github.com/lengsukq/ParaphrasingToolClient) (Vue3)** - 这是一个基于Vue 3和TypeScript开发的文本查重与AI降重工具，主要用于上传paperyy查重报告和AIGC查重报告，并支持用户自定义大模型和prompt进行文本降重。
 *   **[baitengReptile](https://github.com/lengsukq/baitengReptile) (Python)** - 爬虫项目及自写自用的Python工具。 使用Python、Selenium和MySQL，爬取佰腾信息，采集数据并整合为Excel，支持SVG转图片功能。
-*   **[love-trick](https://github.com/lengsukq/love-trick) (Next.js)** - 给女朋友写的，属于情侣的任务和商城系统，纯h5页面，不是微信小程序，完全免费部署，无需服务器，React-NextJS全栈项目。
 *   **[daily_push](https://github.com/lengsukq/daily_push) (Node.js)** - 微信定时推送。主要是每日微信天气推送，后面添加了青龙实用脚本。使用Node.js和GitHub Actions，实现微信模板消息定时推送，为不同用户推送个性化天气信息。
 *   **[my-git-tool](https://github.com/lengsukq/my-git-tool) (Electron)** - SSH部署工具。 基于Electron和Vue3开发，提供SSH一键部署功能，提升团队部署效率（自己写的闲时小玩具，已停更）。
 *   **[Pic-Su](https://github.com/lengsukq/Pic-Su) (Next.js)** - 图片管理系统。 对接多个图床平台，支持分发token。
+
+---
+
+## 🚀 已部署的在线服务
+
+---
+
+| 服务 | 描述 | 技术栈 | 状态 |
+|---|---|---|---|
+| 🛠️ [工具箱](https://tools.lengsu.top/) |  各种实用工具集合 |  Next.js /  React /  Node.js / HeroUI / Tailwindcss | 更新中 |
+| 🎵 [Bilibili 音乐解析](https://bilibili-music.lengsu.top/) | 支持解析单个/收藏夹  |  Next.js /  React /  Node.js/ NextUI / Tailwindcss | 维护中 |
+| 💖 [love-trick](https://love-trick.lengsu.top/) | 情侣任务和商城系统 | Next.js / React / Node.js /  MySQL / NextUI | 维护中 |
+| 🖼️ [Pic-Su](https://pic-su.top/) | 图片管理系统 | Next.js / Node.js /  MySQL | 维护中 |
+| 🤖 [说文解字](https://ql-panel.lengsu.top/#/explain-words) | 别样角度的汉语新解 |  Vue3 / Tailwindcss | 维护中 |
+| ✍️ [AI降重](https://parap.lengsu.top/) |  解析查重报告并自定义大模型降重 |  Vue3 / Pthone / Tailwindcss | 更新中 |
+| 🏞️ [TG 图床](https://tg-img.lengsu.top/) |  Telegram 图像服务 |  Node.js / Express /  MySQL | 维护中 |
+| 🧐 [深度研究](https://deep-research.lengsu.top/) | 手动实现不同大模型的deep-research |  Next.js / React | 维护中 |
+| 📝 [在线制作简历](https://resume.lengsu.top/) |  在线制作 |  Next.js / React | 维护中 |
+| 💬 [开箱即用NextChat](https://chat.lengsu.top/) |  web端一站式大模型整合 |  Next.js /  React /  Node.js /  OpenAI API / LangChain  | 维护中 |
 
 ---
 
