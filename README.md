@@ -47,7 +47,7 @@
 | 💖 [love-trick](https://love-trick.lengsu.top/) | 情侣任务和商城系统 | Next.js / React / Node.js /  MySQL / NextUI | 维护中 |
 | 🖼️ [Pic-Su](https://pic-su.top/) | 图片管理系统 | Next.js / Node.js /  MySQL | 维护中 |
 | 🤖 [说文解字](https://ql-panel.lengsu.top/#/explain-words) | 别样角度的汉语新解 |  Vue3 / Tailwindcss | 维护中 |
-| ✍️ [AI降重](https://parap.lengsu.top/) |  解析查重报告并自定义大模型降重 |  Vue3 / Pthone / Tailwindcss | 更新中 |
+| ✍️ [AI降重](https://parap.lengsu.top/) |  解析查重报告并自定义大模型降重 |  Vue3 / Python / Tailwindcss | 更新中 |
 | 🌐 [Anti proxy for Mingyu](https://proxy-all.lengsu.top/) | 页面代理加速 | JavaScript / Workers | 维护中 |
 | 🐙 [GitHub 文件加速](https://github.lengsu.top/) |  免翻墙GitHub文件加速 | JavaScript / Workers| 维护中 |
 | 🏞️ [TG 图床](https://tg-img.lengsu.top/) |  Telegram 图像服务 |  Node.js / Express /  MySQL | 维护中 |
