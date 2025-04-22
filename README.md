@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/105091166?v=4" width="150" alt="你的头像">
   <h1>Hi, 我是 lengsukq!</h1>
-  <p>前端/全栈开发者 | 喜欢折腾技术 🚀</p>
+  <p>前端/Python/全栈开发者 | 喜欢折腾技术 🚀</p>
 
   <p>
     <a href="https://github.com/lengsukq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
