@@ -44,7 +44,7 @@
 | 💬 [AI集合站-NextChat](https://chat.lengsu.top/) |  web端一站式大模型整合 |  Next.js /  React /  Node.js /  OpenAI API / LangChain  | 维护中 |
 | 🛠️ [工具箱](https://tools.lengsu.top/) |  各种实用工具集合 |  Next.js /  React /  Node.js / HeroUI / Tailwindcss | 更新中 |
 | 🎵 [Bilibili 音乐解析](https://bilibili-music.lengsu.top/) | 支持解析单个/收藏夹  |  Next.js /  React /  Node.js/ NextUI / Tailwindcss | 维护中 |
-| 💖 [love-trick](https://love-trick.lengsu.top/) | 情侣任务和商城系统 | Next.js / React / Node.js /  MySQL / NextUI | 维护中 |
+| 💖 [romance-hub](https://romance-hub.lengsu.top/) | 情侣任务和商城系统 | Next.js / React / Node.js /  MySQL / NextUI | 维护中 |
 | 🖼️ [Pic-Su](https://pic-su.top/) | 图片管理系统 | Next.js / Node.js /  MySQL | 维护中 |
 | 🤖 [说文解字](https://ql-panel.lengsu.top/#/explain-words) | 别样角度的汉语新解 |  Vue3 / Tailwindcss | 维护中 |
 | ✍️ [AI降重](https://parap.lengsu.top/) |  解析查重报告并自定义大模型降重 |  Vue3 / Python / Tailwindcss | 更新中 |
