@@ -14,17 +14,12 @@
 
 ### 后端开发
 - **语言**: Python, JavaScript/TypeScript, Go
-- **框架**: Flask, FastAPI, Express, Koa, Gin
-- **数据库**: MySQL, PostgreSQL, MongoDB, Redis
-- **API**: RESTful API, GraphQL
-
-### AI与机器学习
-- **框架**: TensorFlow, PyTorch
-- **应用**: 自然语言处理, 计算机视觉, 推荐系统
-- **工具**: OpenAI API, 百度AI, 讯飞AI
+- **框架**: Flask, FastAPI, Express
+- **数据库**: MySQL, PostgreSQL
+- **API**: RESTful API
 
 ### DevOps与部署
-- **容器化**: Docker, Kubernetes
+- **容器化**: Docker
 - **CI/CD**: GitHub Actions, Jenkins
 - **云服务**: 阿里云, 腾讯云, Vercel, Netlify
 
@@ -32,24 +27,19 @@
 
 ### AI与自动化工具
 - **[wechat-bot](https://github.com/lengsukq/wechat-bot)** - 微信机器人，支持多种功能，包括AI聊天、信息查询等
-- **[ParaphrasingToolClient](https://github.com/lengsukq/ParaphrasingToolClient)** - 论文AI降重工具，目前支持paperyy查重报告的智能改写 *(最近更新: 2025-05-24)*
-- **[ParaphrasingToolServer](https://github.com/lengsukq/ParaphrasingToolServer)** - 论文降重服务端，提供AI改写API *(最近更新: 2025-04-06)*
-- **[SmartBookkeeper](https://github.com/lengsukq/SmartBookkeeper)** - 智能记账系统，支持多账户管理和数据分析 *(最近更新: 2025-08-31)*
-- **[CalorieTracker](https://github.com/lengsukq/CalorieTracker)** - 卡路里追踪应用，帮助用户记录和分析日常饮食 *(最近更新: 2025-08-30)*
+- **[ParaphrasingToolClient](https://github.com/lengsukq/ParaphrasingToolClient)** - 论文AI降重工具，目前支持paperyy查重报告的智能改写
+- **[ParaphrasingToolServer](https://github.com/lengsukq/ParaphrasingToolServer)** - 论文降重服务端，提供AI改写API
+- **[SmartBookkeeper](https://github.com/lengsukq/SmartBookkeeper)** - 智能记账系统，支持多账户管理和数据分析
+- **[CalorieTracker](https://github.com/lengsukq/CalorieTracker)** - 卡路里追踪应用，帮助用户记录和分析日常饮食
 
 ### 爬虫与数据处理
-- **[baitengReptile](https://github.com/lengsukq/baitengReptile)** - 佰腾爬虫数据爬取并生成Excel，机场自动点击领取时长 *(最近更新: 2025-01-09)*
-- **[flask-Tools](https://github.com/lengsukq/flask-Tools)** - 基于Flask的数据处理工具集 *(最近更新: 2024-12-30)*
-- **[bilibili-music](https://github.com/lengsukq/bilibili-music)** - B站音乐提取工具，支持下载和转换格式 *(最近更新: 2024-07-17)*
+- **[baitengReptile](https://github.com/lengsukq/baitengReptile)** - 佰腾爬虫数据爬取并生成Excel，机场自动点击领取时长
+- **[flask-Tools](https://github.com/lengsukq/flask-Tools)** - 基于Flask的数据处理工具集
+- **[bilibili-music](https://github.com/lengsukq/bilibili-music)** - B站音乐提取工具，支持下载和转换格式
 
 ### 实用工具与应用
-- **[romance-hub](https://github.com/lengsukq/romance-hub)** - 情侣任务和商城系统，纯H5页面，React-NextJS全栈项目 *(最近更新: 2025-08-29)*
-- **[daily_push](https://github.com/lengsukq/daily_push)** - 微信公众号每日消息推送，送给女朋友一份小关怀 *(最近更新: 2025-04-15)*
-- **[lucky-manage](https://github.com/lengsukq/lucky-manage)** - 幸运管理系统，提供抽奖和活动管理功能 *(最近更新: 2024-12-28)*
-- **[ql-openpanel](https://github.com/lengsukq/ql-openpanel)** - 青龙面板管理工具，简化容器管理流程 *(最近更新: 2025-02-11)*
-- **[hey](https://github.com/lengsukq/hey)** - 简洁的社交应用，支持即时通讯和动态分享 *(最近更新: 2025-06-17)*
-- **[vitePress-xf](https://github.com/lengsukq/vitePress-xf)** - 基于VitePress的文档站点生成器 *(最近更新: 2025-04-16)*
-- **[epic-designer-xf](https://github.com/lengsukq/epic-designer-xf)** - 可视化设计工具，支持拖拽式界面设计 *(最近更新: 2024-12-11)*
+- **[romance-hub](https://github.com/lengsukq/romance-hub)** - 情侣任务和商城系统，纯H5页面，React-NextJS全栈项目
+- **[daily_push](https://github.com/lengsukq/daily_push)** - 微信公众号每日消息推送，送给女朋友一份小关怀
 
 ## 🌐 已部署在线服务
 
@@ -65,8 +55,6 @@
 ## 📧 联系方式
 
 - **邮箱**: [lengsukq@example.com](mailto:lengsukq@example.com)
-- **微信**: lengsukq_wx
-- **QQ**: 123456789
 - **GitHub**: [lengsukq](https://github.com/lengsukq)
 
 ---
