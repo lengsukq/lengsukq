@@ -1,62 +1,61 @@
-# 👋 你好，我是 lengsukq
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/105091166?v=4" width="150" alt="你的头像">
+  <h1>Hi, 我是 lengsukq!</h1>
+  <p>前端/Python/全栈开发者 | 喜欢折腾技术 🚀</p>
 
-## 📖 关于我
-
-我是一名全栈开发工程师，专注于Web开发、AI应用和自动化工具开发。热爱探索新技术，善于将创意转化为实际应用。
-
-## 🛠️ 技术栈
-
-### 前端开发
-- **框架**: Vue3, React, NextJS, NuxtJS
-- **UI库**: Element UI, Ant Design, Vuetify, shadcn/ui
-- **状态管理**: Vuex, Pinia, Redux, MobX
-- **构建工具**: Vite, Webpack
-
-### 后端开发
-- **语言**: Python, JavaScript/TypeScript, Go
-- **框架**: Flask, FastAPI, Express
-- **数据库**: MySQL, PostgreSQL
-- **API**: RESTful API
-
-### DevOps与部署
-- **容器化**: Docker
-- **CI/CD**: GitHub Actions, Jenkins
-- **云服务**: 阿里云, 腾讯云, Vercel, Netlify
-
-## 🚀 开源项目
-
-### AI与自动化工具
-- **[wechat-bot](https://github.com/lengsukq/wechat-bot)** - 微信机器人，支持多种功能，包括AI聊天、信息查询等
-- **[ParaphrasingToolClient](https://github.com/lengsukq/ParaphrasingToolClient)** - 论文AI降重工具，目前支持paperyy查重报告的智能改写
-- **[ParaphrasingToolServer](https://github.com/lengsukq/ParaphrasingToolServer)** - 论文降重服务端，提供AI改写API
-- **[SmartBookkeeper](https://github.com/lengsukq/SmartBookkeeper)** - 智能记账系统，支持多账户管理和数据分析
-- **[CalorieTracker](https://github.com/lengsukq/CalorieTracker)** - 卡路里追踪应用，帮助用户记录和分析日常饮食
-
-### 爬虫与数据处理
-- **[baitengReptile](https://github.com/lengsukq/baitengReptile)** - 佰腾爬虫数据爬取并生成Excel，机场自动点击领取时长
-- **[flask-Tools](https://github.com/lengsukq/flask-Tools)** - 基于Flask的数据处理工具集
-- **[bilibili-music](https://github.com/lengsukq/bilibili-music)** - B站音乐提取工具，支持下载和转换格式
-
-### 实用工具与应用
-- **[romance-hub](https://github.com/lengsukq/romance-hub)** - 情侣任务和商城系统，纯H5页面，React-NextJS全栈项目
-- **[daily_push](https://github.com/lengsukq/daily_push)** - 微信公众号每日消息推送，送给女朋友一份小关怀
-
-## 🌐 已部署在线服务
-
-- **[AI集合站](https://ai.lengsukq.com)** - 收集各类AI工具和模型，提供一站式AI服务体验
-- **[工具箱](https://tools.lengsukq.com)** - 提供各种实用工具，包括文本处理、图像处理、数据转换等
-- **[情侣空间](https://love.lengsukq.com)** - 基于romance-hub项目部署的情侣互动平台
-
-## 📊 项目统计
-
-![GitHub统计](https://github-readme-stats.vercel.app/api?username=lengsukq&show_icons=true&theme=vue-dark)
-![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=lengsukq&layout=compact&theme=vue-dark)
-
-## 📧 联系方式
-
-- **邮箱**: [lengsukq@example.com](mailto:lengsukq@example.com)
-- **GitHub**: [lengsukq](https://github.com/lengsukq)
+  <p>
+    <a href="https://github.com/lengsukq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
+    <a href="https://blog.lengsu.top/"><img src="https://img.shields.io/badge/博客-red?style=for-the-badge&logo=blogger&logoColor=white" alt="博客"></a>
+  </p>
+</div>
 
 ---
 
-⭐️ 感谢你花时间查看我的GitHub主页！如果你对我的项目感兴趣，欢迎给个Star，也欢迎交流与合作。
+<div align="center">
+  ✨ <span style="font-size: 1.5em; font-weight: bold; color: #007bff;">编程铸就思维</span> ✨<br>
+  💡 <span style="font-size: 1.2em; color: #6c757d;">思维成就编程</span> 💡
+</div>
+
+---
+
+## 💻 技术栈
+
+*   Vue3 / React / Uniapp / 微信小程序 / Next.js
+*   Node.js / Express / Python / MySQL / PostgreSQL
+*   Webpack / Vite / Docker / NGINX / Shell
+
+---
+
+## 💡 开源项目
+
+*   **[wechat-bot](https://github.com/wangrongding/wechat-bot) (Node.js)** - 微信机器人，核心开发者。  使用Node.js和Docker，对接AI对话模块，实现微信聊天机器人功能。
+*   **[ParaphrasingToolClient](https://github.com/lengsukq/ParaphrasingToolClient) (Vue3)** - 这是一个基于Vue 3和TypeScript开发的文本查重与AI降重工具，主要用于上传paperyy查重报告和AIGC查重报告，并支持用户自定义大模型和prompt进行文本降重。
+*   **[baitengReptile](https://github.com/lengsukq/baitengReptile) (Python)** - 爬虫项目及自写自用的Python工具。 使用Python、Selenium和MySQL，爬取佰腾信息，采集数据并整合为Excel，支持SVG转图片功能。
+*   **[daily_push](https://github.com/lengsukq/daily_push) (Node.js)** - 微信定时推送。主要是每日微信天气推送，后面添加了青龙实用脚本。使用Node.js和GitHub Actions，实现微信模板消息定时推送，为不同用户推送个性化天气信息。
+*   **[my-git-tool](https://github.com/lengsukq/my-git-tool) (Electron)** - SSH部署工具。 基于Electron和Vue3开发，提供SSH一键部署功能，提升团队部署效率（自己写的闲时小玩具，已停更）。
+*   **[Pic-Su](https://github.com/lengsukq/Pic-Su) (Next.js)** - 图片管理系统。 对接多个图床平台，支持分发token。
+
+---
+
+## 🚀 已部署的在线服务
+
+| 服务 | 描述 | 技术栈 | 状态 |
+|---|---|---|---|
+| 💬 [AI集合站-NextChat](https://chat.lengsu.top/) |  web端一站式大模型整合 |  Next.js /  React /  Node.js /  OpenAI API / LangChain  | 维护中 |
+| 🛠️ [工具箱](https://tools.lengsu.top/) |  各种实用工具集合 |  Next.js /  React /  Node.js / HeroUI / Tailwindcss | 更新中 |
+| 🎵 [Bilibili 音乐解析](https://bilibili-music.lengsu.top/) | 支持解析单个/收藏夹  |  Next.js /  React /  Node.js/ NextUI / Tailwindcss | 维护中 |
+| 💖 [romance-hub](https://romance-hub.lengsu.top/) | 情侣任务和商城系统 | Next.js / React / Node.js /  MySQL / NextUI | 维护中 |
+| 🖼️ [Pic-Su](https://pic-su.top/) | 图片管理系统 | Next.js / Node.js /  MySQL | 维护中 |
+| 🤖 [说文解字](https://ql-panel.lengsu.top/#/explain-words) | 别样角度的汉语新解 |  Vue3 / Tailwindcss | 维护中 |
+| ✍️ [AI降重](https://parap.lengsu.top/) |  解析查重报告并自定义大模型降重 |  Vue3 / Python / Tailwindcss | 更新中 |
+| 🌐 [Anti proxy for Mingyu](https://proxy-all.lengsu.top/) | 页面代理加速 | JavaScript / Workers | 维护中 |
+| 🐙 [GitHub 文件加速](https://github.lengsu.top/) |  免翻墙GitHub文件加速 | JavaScript / Workers| 维护中 |
+| 🏞️ [TG 图床](https://tg-img.lengsu.top/) |  Telegram 图像服务 |  Node.js / Express /  MySQL | 维护中 |
+| 🧐 [深度研究](https://deep-research.lengsu.top/) | 手动实现不同大模型的deep-research |  Next.js / React | 维护中 |
+| 📝 [在线制作简历](https://resume.lengsu.top/) |  简单的简历制作 |  Next.js / React | 维护中 |
+
+---
+
+<div align="center">
+  Star 我吧! ✨
+</div>
