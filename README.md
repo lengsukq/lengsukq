@@ -29,6 +29,7 @@
 ## 💡 开源项目
 
 *   **[wechat-bot](https://github.com/wangrongding/wechat-bot) (Node.js)** - 微信机器人，核心开发者。  使用Node.js和Docker，对接AI对话模块，实现微信聊天机器人功能。
+*   **[SmartBookkeeper](https://github.com/lengsukq/SmartBookkeeper) (Python)** - 智能个人记账系统，支持通过微信发送账单图片实现自动记账。
 *   **[ParaphrasingToolClient](https://github.com/lengsukq/ParaphrasingToolClient) (Vue3)** - 这是一个基于Vue 3和TypeScript开发的文本查重与AI降重工具，主要用于上传paperyy查重报告和AIGC查重报告，并支持用户自定义大模型和prompt进行文本降重。
 *   **[baitengReptile](https://github.com/lengsukq/baitengReptile) (Python)** - 爬虫项目及自写自用的Python工具。 使用Python、Selenium和MySQL，爬取佰腾信息，采集数据并整合为Excel，支持SVG转图片功能。
 *   **[daily_push](https://github.com/lengsukq/daily_push) (Node.js)** - 微信定时推送。主要是每日微信天气推送，后面添加了青龙实用脚本。使用Node.js和GitHub Actions，实现微信模板消息定时推送，为不同用户推送个性化天气信息。
