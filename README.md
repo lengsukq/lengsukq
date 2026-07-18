@@ -43,12 +43,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lengsukq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lengsukq&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengsukq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lengsukq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 ---
@@ -98,104 +93,34 @@
 
 ### ⭐ Popular Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/ParaphrasingToolClient">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=ParaphrasingToolClient&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>Vue3 + TypeScript</b> · ⭐ 78
-    </td>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/romance-hub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=romance-hub&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>Flutter + Next.js</b> · ⭐ 36
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/daily_push">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=daily_push&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>Python + GitHub Actions</b> · ⭐ 9
-    </td>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/SmartBookkeeper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=SmartBookkeeper&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>FastAPI + AI</b> · ⭐ 7
-    </td>
-  </tr>
-</table>
+| Project | Tech Stack | Stars | Description |
+|---------|------------|-------|-------------|
+| [ParaphrasingToolClient](https://github.com/lengsukq/ParaphrasingToolClient) | Vue3 + TypeScript | ⭐ 78 | 论文AI降重工具，支持paperyy查重报告解析 |
+| [romance-hub](https://github.com/lengsukq/romance-hub) | Flutter + Next.js | ⭐ 36 | 情侣任务与心意管理系统 |
+| [daily_push](https://github.com/lengsukq/daily_push) | Python + GitHub Actions | ⭐ 9 | 微信公众号每日消息推送 |
+| [SmartBookkeeper](https://github.com/lengsukq/SmartBookkeeper) | FastAPI + AI | ⭐ 7 | 智能记账机器人后端服务 |
+| [TV](https://github.com/lengsukq/TV) | Python | ⭐ 2 | TVBox配置文件，自动更新 |
+| [baitengReptile](https://github.com/lengsukq/baitengReptile) | Python | ⭐ 2 | 爬虫项目，数据采集工具 |
 
 ### 🆕 Recent Projects (Last 6 Months)
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/SkyLink">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=SkyLink&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>Go + Cloudflare</b> · Network Management Panel
-    </td>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/opencode-remote">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=opencode-remote&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>Flutter</b> · Remote Control App
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/QA-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=QA-Agent&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>TypeScript</b> · AI Q&A Agent
-    </td>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/cpe-monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=cpe-monitor&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>TypeScript</b> · CPE Monitor
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/TV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=TV&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>Python</b> · ⭐ 2 · TVBox Config
-    </td>
-    <td width="50%">
-      <a href="https://github.com/lengsukq/calorie-crew">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=calorie-crew&theme=tokyonight&hide_border=true"/>
-      </a>
-      <br>
-      <b>TypeScript</b> · Calorie Tracker
-    </td>
-  </tr>
-</table>
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [SkyLink](https://github.com/lengsukq/SkyLink) | Go + Cloudflare | 网络管理面板，单隧道分流 + DNS管理 + DDNS |
+| [opencode-remote](https://github.com/lengsukq/opencode-remote) | Flutter | 移动端远程控制应用，专为opencode AI编程助手设计 |
+| [QA-Agent](https://github.com/lengsukq/QA-Agent) | TypeScript | AI问答代理 |
+| [cpe-monitor](https://github.com/lengsukq/cpe-monitor) | TypeScript | H153 CPE 流量监控、告警通知、每日报告系统 |
+| [calorie-crew](https://github.com/lengsukq/calorie-crew) | TypeScript | 卡路里追踪应用 |
+| [lengsukq-tools](https://github.com/lengsukq/lengsukq-tools) | TypeScript | 基于 Next.js 14 和 HeroUI 的在线工具集合 |
+| [lengsukq-tampermonkey](https://github.com/lengsukq/lengsukq-tampermonkey) | JavaScript | 油猴脚本集合 |
 
-### 📦 More Projects
+### 📦 Other Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | [wechat-bot](https://github.com/wangrongding/wechat-bot) | Node.js | 微信机器人，核心开发者 |
-| [baitengReptile](https://github.com/lengsukq/baitengReptile) | Python | 爬虫项目，数据采集工具 |
 | [my-git-tool](https://github.com/lengsukq/my-git-tool) | Electron | SSH部署工具（已停更） |
 | [Pic-Su](https://github.com/lengsukq/Pic-Su) | Next.js | 图片管理系统 |
-| [lengsukq-tools](https://github.com/lengsukq/lengsukq-tools) | TypeScript | 在线工具集合 |
-| [lengsukq-tampermonkey](https://github.com/lengsukq/lengsukq-tampermonkey) | JavaScript | 油猴脚本集合 |
 
 ---
 
@@ -243,14 +168,6 @@
   <a href="https://resume.lengsu.top/">
     <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lengsukq&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
