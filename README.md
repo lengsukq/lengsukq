@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://avatars.githubusercontent.com/u/105091166?v=4" width="150" alt="头像">
   <h1>Hi, 我是 lengsukq!</h1>
   <p>全干工程师 | 前端/Python/全栈开发者 | 喜欢折腾技术 🚀</p>
