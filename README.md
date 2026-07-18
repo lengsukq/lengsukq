@@ -20,9 +20,6 @@
   <a href="https://github.com/lengsukq">
     <img src="https://img.shields.io/github/last-commit/lengsukq?style=for-the-badge&color=58a6ff&logo=github" alt="Last Commit">
   </a>
-  <a href="https://github.com/lengsukq">
-    <img src="https://img.shields.io/github/repo-size/lengsukq?style=for-the-badge&color=58a6ff&logo=github" alt="Repo Size">
-  </a>
 </div>
 
 <br>
@@ -99,6 +96,8 @@
 
 ## 🌟 Featured Projects
 
+### ⭐ Popular Projects
+
 <table>
   <tr>
     <td width="50%">
@@ -132,23 +131,71 @@
       <b>FastAPI + AI</b> · ⭐ 7
     </td>
   </tr>
+</table>
+
+### 🆕 Recent Projects (Last 6 Months)
+
+<table>
   <tr>
     <td width="50%">
       <a href="https://github.com/lengsukq/SkyLink">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=SkyLink&theme=tokyonight&hide_border=true"/>
       </a>
       <br>
-      <b>Go + Cloudflare</b>
+      <b>Go + Cloudflare</b> · Network Management Panel
     </td>
     <td width="50%">
-      <a href="https://github.com/lengsukq/SaveSync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=SaveSync&theme=tokyonight&hide_border=true"/>
+      <a href="https://github.com/lengsukq/opencode-remote">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=opencode-remote&theme=tokyonight&hide_border=true"/>
       </a>
       <br>
-      <b>Electron + React</b>
+      <b>Flutter</b> · Remote Control App
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/lengsukq/QA-Agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=QA-Agent&theme=tokyonight&hide_border=true"/>
+      </a>
+      <br>
+      <b>TypeScript</b> · AI Q&A Agent
+    </td>
+    <td width="50%">
+      <a href="https://github.com/lengsukq/cpe-monitor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=cpe-monitor&theme=tokyonight&hide_border=true"/>
+      </a>
+      <br>
+      <b>TypeScript</b> · CPE Monitor
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/lengsukq/TV">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=TV&theme=tokyonight&hide_border=true"/>
+      </a>
+      <br>
+      <b>Python</b> · ⭐ 2 · TVBox Config
+    </td>
+    <td width="50%">
+      <a href="https://github.com/lengsukq/calorie-crew">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lengsukq&repo=calorie-crew&theme=tokyonight&hide_border=true"/>
+      </a>
+      <br>
+      <b>TypeScript</b> · Calorie Tracker
     </td>
   </tr>
 </table>
+
+### 📦 More Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [wechat-bot](https://github.com/wangrongding/wechat-bot) | Node.js | 微信机器人，核心开发者 |
+| [baitengReptile](https://github.com/lengsukq/baitengReptile) | Python | 爬虫项目，数据采集工具 |
+| [my-git-tool](https://github.com/lengsukq/my-git-tool) | Electron | SSH部署工具（已停更） |
+| [Pic-Su](https://github.com/lengsukq/Pic-Su) | Next.js | 图片管理系统 |
+| [lengsukq-tools](https://github.com/lengsukq/lengsukq-tools) | TypeScript | 在线工具集合 |
+| [lengsukq-tampermonkey](https://github.com/lengsukq/lengsukq-tampermonkey) | JavaScript | 油猴脚本集合 |
 
 ---
 
@@ -156,22 +203,45 @@
 
 <div align="center">
   <a href="https://chat.lengsu.top/">
-    <img src="https://img.shields.io/badge/AI_Collection-000000?style=for-the-badge&logo=openai&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/AI_Collection-000000?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
   <a href="https://tools.lengsu.top/">
-    <img src="https://img.shields.io/badge/Toolbox-4285F4?style=for-the-badge&logo=google&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Toolbox-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="https://bilibili-music.lengsu.top/">
-    <img src="https://img.shields.io/badge/Bilibili_Music-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Bilibili_Music-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
   </a>
   <a href="https://romance-hub.lengsu.top/">
-    <img src="https://img.shields.io/badge/Romance_Hub-E91E63?style=for-the-badge&logo=heart&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Romance_Hub-E91E63?style=for-the-badge&logo=heart&logoColor=white"/>
   </a>
   <a href="https://pic-su.top/">
-    <img src="https://img.shields.io/badge/Image_Host-9C27B0?style=for-the-badge&logo=image&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/Image_Host-9C27B0?style=for-the-badge&logo=image&logoColor=white"/>
   </a>
   <a href="https://parap.lengsu.top/">
-    <img src="https://img.shields.io/badge/AI_Rewrite-FF6F00?style=for-the-badge&logo=robot&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/AI_Rewrite-FF6F00?style=for-the-badge&logo=robot&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://ql-panel.lengsu.top/#/explain-words">
+    <img src="https://img.shields.io/badge/说文解字-009688?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://proxy-all.lengsu.top/">
+    <img src="https://img.shields.io/badge/Proxy-607D8B?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://github.lengsu.top/">
+    <img src="https://img.shields.io/badge/GitHub_Accel-24292E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://tg-img.lengsu.top/">
+    <img src="https://img.shields.io/badge/TG_Image-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://deep-research.lengsu.top/">
+    <img src="https://img.shields.io/badge/Deep_Research-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+  <a href="https://resume.lengsu.top/">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
 </div>
 
