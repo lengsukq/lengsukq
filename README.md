@@ -109,7 +109,7 @@
 |---------|------------|-------------|
 | [SkyLink](https://github.com/lengsukq/SkyLink) | Go + Cloudflare | 网络管理面板，单隧道分流 + DNS管理 + DDNS |
 | [opencode-remote](https://github.com/lengsukq/opencode-remote) | Flutter | 移动端远程控制应用，专为opencode AI编程助手设计 |
-| [QA-Agent](https://github.com/lengsukq/QA-Agent) | TypeScript | AI问答代理 |
+| [QA-Agent](https://github.com/lengsukq/QA-Agent) | TypeScript | 面向真实业务验证的 QA Agent 运行时，支持跨宿主 Skill 包 |
 | [cpe-monitor](https://github.com/lengsukq/cpe-monitor) | TypeScript | H153 CPE 流量监控、告警通知、每日报告系统 |
 | [calorie-crew](https://github.com/lengsukq/calorie-crew) | TypeScript | 卡路里追踪应用 |
 | [lengsukq-tools](https://github.com/lengsukq/lengsukq-tools) | TypeScript | 基于 Next.js 14 和 HeroUI 的在线工具集合 |
