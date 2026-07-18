@@ -5,7 +5,8 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=💡+Building+innovative+solutions+with+code;🌐+Full+Stack+%7C+Mobile+%7C+Desktop+Developer;🚀+Passionate+about+open+source+and+technology" alt="Typing SVG" />
+  <h3>💡 编程铸就思维，思维成就编程</h3>
+  <p>全栈开发者 | 前端 / Python / 移动端 / 桌面应用</p>
 </div>
 
 <br>
@@ -124,51 +125,22 @@
 
 ---
 
-## 🚀 Live Projects
+## 🚀 已部署的在线服务
 
-<div align="center">
-  <a href="https://chat.lengsu.top/">
-    <img src="https://img.shields.io/badge/AI_Collection-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  </a>
-  <a href="https://tools.lengsu.top/">
-    <img src="https://img.shields.io/badge/Toolbox-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <a href="https://bilibili-music.lengsu.top/">
-    <img src="https://img.shields.io/badge/Bilibili_Music-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
-  </a>
-  <a href="https://romance-hub.lengsu.top/">
-    <img src="https://img.shields.io/badge/Romance_Hub-E91E63?style=for-the-badge&logo=heart&logoColor=white"/>
-  </a>
-  <a href="https://pic-su.top/">
-    <img src="https://img.shields.io/badge/Image_Host-9C27B0?style=for-the-badge&logo=image&logoColor=white"/>
-  </a>
-  <a href="https://parap.lengsu.top/">
-    <img src="https://img.shields.io/badge/AI_Rewrite-FF6F00?style=for-the-badge&logo=robot&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://ql-panel.lengsu.top/#/explain-words">
-    <img src="https://img.shields.io/badge/说文解字-009688?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <a href="https://proxy-all.lengsu.top/">
-    <img src="https://img.shields.io/badge/Proxy-607D8B?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <a href="https://github.lengsu.top/">
-    <img src="https://img.shields.io/badge/GitHub_Accel-24292E?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://tg-img.lengsu.top/">
-    <img src="https://img.shields.io/badge/TG_Image-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://deep-research.lengsu.top/">
-    <img src="https://img.shields.io/badge/Deep_Research-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <a href="https://resume.lengsu.top/">
-    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-</div>
+| 服务 | 链接 | 描述 |
+|:-----|:-----|:-----|
+| 💬 AI集合站-NextChat | [chat.lengsu.top](https://chat.lengsu.top/) | web端一站式大模型整合 |
+| 🛠️ 工具箱 | [tools.lengsu.top](https://tools.lengsu.top/) | 各种实用工具集合 |
+| 🎵 Bilibili 音乐解析 | [bilibili-music.lengsu.top](https://bilibili-music.lengsu.top/) | 支持解析单个/收藏夹 |
+| 💖 romance-hub | [romance-hub.lengsu.top](https://romance-hub.lengsu.top/) | 情侣任务和商城系统 |
+| 🖼️ Pic-Su | [pic-su.top](https://pic-su.top/) | 图片管理系统 |
+| 🤖 说文解字 | [ql-panel.lengsu.top](https://ql-panel.lengsu.top/#/explain-words) | 别样角度的汉语新解 |
+| ✍️ AI降重 | [parap.lengsu.top](https://parap.lengsu.top/) | 解析查重报告并自定义大模型降重 |
+| 🌐 Anti proxy | [proxy-all.lengsu.top](https://proxy-all.lengsu.top/) | 页面代理加速 |
+| 🐙 GitHub 文件加速 | [github.lengsu.top](https://github.lengsu.top/) | 免翻墙GitHub文件加速 |
+| 🏞️ TG 图床 | [tg-img.lengsu.top](https://tg-img.lengsu.top/) | Telegram 图像服务 |
+| 🧐 深度研究 | [deep-research.lengsu.top](https://deep-research.lengsu.top/) | 手动实现不同大模型的deep-research |
+| 📝 在线制作简历 | [resume.lengsu.top](https://resume.lengsu.top/) | 简单的简历制作 |
 
 ---
 
