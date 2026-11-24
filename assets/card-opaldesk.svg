@@ -34,14 +34,14 @@
     <!-- Category Pill -->
     <rect x="24" y="54" width="187" height="20" rx="10" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.4"/>
     <text x="117.5" y="68" text-anchor="middle" class="mono" font-size="10.5" font-weight="600" fill="#A78BFA">Multi-Display · No Root</text>
-    <text x="223" y="68" class="mono" font-size="10.5" fill="#64748B">Updated 2026-11-22</text>
+    <text x="223" y="68" class="mono" font-size="10.5" fill="#64748B">Updated 2026-11-24</text>
 
     <!-- Top Right Status / Stars Pill -->
-    <rect x="466" y="23" width="90" height="24" rx="12" fill="#34D399" fill-opacity="0.15" stroke="#34D399" stroke-opacity="0.5"/>
-    <circle cx="481" cy="35" r="3" fill="#34D399">
+    <rect x="466" y="23" width="90" height="24" rx="12" fill="#FBBF24" fill-opacity="0.15" stroke="#FBBF24" stroke-opacity="0.5"/>
+    <circle cx="481" cy="35" r="3" fill="#FBBF24">
       <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="519" y="39" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#34D399">ACTIVE</text>
+    <text x="519" y="39" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#FBBF24">★ 20</text>
 
     <!-- Description -->
     <text x="24" y="94" class="sans" font-size="13" fill="#CBD5E1">免 Root Android 多屏桌面工作站（LocalDeX / 外接显示器）</text>
