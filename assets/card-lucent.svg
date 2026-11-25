@@ -41,7 +41,7 @@
     <circle cx="481" cy="35" r="3" fill="#FBBF24">
       <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="519" y="39" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#FBBF24">★ 3</text>
+    <text x="519" y="39" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#FBBF24">★ 5</text>
 
     <!-- Description -->
     <text x="24" y="94" class="sans" font-size="13" fill="#CBD5E1">Liquid Glass 原生启动器：Everything 级检索、QQ 式截图 OCR</text>
